@@ -1,7 +1,7 @@
 {
     "name": "ReduceModel",
     "version": "0.1.0",
-    "base_path": "https://spine-project.github.io/ReduceModelPlugin/",
+    "base_path": "https://spine-tools.github.io/ReduceModelPlugin/",
     "description": "ReduceModel.jl plugin for Spine Toolbox.",
     "specifications": {
         "Tool": [
